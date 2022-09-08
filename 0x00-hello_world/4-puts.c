@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 
 
 
@@ -10,9 +10,9 @@
 
 * description:using the main function
 
-* this program prints "Programming is like building a multilingual puzzle"
+* this program prints "Programming is like building a multilingual puzzle
 
-* return:0
+* Return:0
 
 */
 
