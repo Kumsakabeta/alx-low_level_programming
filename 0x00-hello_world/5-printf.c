@@ -1,11 +1,27 @@
-int main(void)
+#include<stdio.h>                                                                                                           
 
-{
+/**                                                                                                                         
 
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+* main - entry point                                                                                                        
 
-	return 0;
+*                                                                                                                           
 
-	return (0);
+* description:using the main function                                                                                       
+
+* Return : Always 0 (Sucess)                                                                                                
+
+*/                                                                                                                          
+
+                                                                                                                            
+
+int main(void)                                                                                                              
+
+{                                                                                                                           
+
+                                                                                                                            
+
+  puts("with the proper grammer,but the outcome is a piece of art,\n");                                                              
+
+  return(0);                                                                                                                
 
 }
