@@ -1,11 +1,10 @@
 #include "main.h"
 #include <stdio.h>
+
 /**
-* main - check the code
+* _puts - check the code
+* @str :argument of the string
 *
-* description:the puts function
-*
-*  Return: Always 0 (Sucess)
 */
 void _puts(char *str)
 {
