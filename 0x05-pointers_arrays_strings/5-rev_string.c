@@ -1,11 +1,12 @@
 #include "main.h"
 #include <string.h>
+
 /**
- * string reversing-> revesing  string
- *
- * @s string parameter
- *
- */
+* rev_string - main entry of the program which checks the code
+* @s: string parameter
+*
+* description:output the swaped string
+*/
 void rev_string(char *s)
 {
 
