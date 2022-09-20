@@ -17,8 +17,6 @@ int main(void)
 {
 
 int i = 0, random, checksum;
-
-
 srand(time(NULL));
 
 checksum = 2772;
