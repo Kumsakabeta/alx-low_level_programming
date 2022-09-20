@@ -17,7 +17,7 @@ char tmp;
 int len;
 int i;
 
-len = strlen(str)
+len = strlen(str);
 
 for (i - 0; i < len; i++)
 {
