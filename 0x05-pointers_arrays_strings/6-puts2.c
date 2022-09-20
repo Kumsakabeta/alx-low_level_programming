@@ -1,5 +1,4 @@
 #include "main.h"
-
 #include <string.h>
 
 /**
@@ -9,11 +8,7 @@
 */
 
 void puts2(char *str)
-
 {
-
-char tmp;
-
 int len;
 int i;
 
