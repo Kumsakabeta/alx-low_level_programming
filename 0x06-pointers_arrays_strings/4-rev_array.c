@@ -3,7 +3,7 @@
 /**
 *  reverse_array - reverse the content of an array of intergers
 *
-* * @a: pointer to int to check
+*  @a: pointer to int to check
 *
 *  @n: int to check
 *
@@ -30,5 +30,4 @@ a[x] = a[y];
 a[y] = z;
 
 
-
-					}
+}
