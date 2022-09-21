@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
 *  reverse_array - reverse the content of an array of intergers
 *
@@ -29,5 +28,5 @@ a[x] = a[y];
 
 a[y] = z;
 
-
+	}
 }
