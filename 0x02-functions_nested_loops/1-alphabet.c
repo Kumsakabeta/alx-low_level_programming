@@ -1,18 +1,23 @@
 #include "main.h"
+#include<stdio.h>
+
 /**
-*  main - check the code for Holberton School students.
+*  main - Entry point
 *
-* Return: Always 0.
+*  Description: prints the character
+*
+*  Return: Always 0 (Success)
 */
+
 void print_alphabet(void)
 {
-char c='a';
-while(c<='z')
+char c = 'a';
+while (c <= 'z')
 
 {
-_putchar(c);
+putchar(c);
 c++;
+putchar('\n');
 }
-_putchar('\n');
+return (0);
 }
-
