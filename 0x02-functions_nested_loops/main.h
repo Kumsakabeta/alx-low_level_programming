@@ -1,4 +1,5 @@
-#include "main.h"
+#ifdef "MAIN_H"
+#ifndef "MAIN_H"
 int _putchar(char c);
 
 void print_alaphabet(void);
