@@ -2,11 +2,11 @@
 #include<stdio.h>
 
 /**
-*  main - Entry point
+* main - Entry point
 *
-*  Description: prints the character
+* Description: prints the character
 *
-*  Return: Always 0 (Success)
+* Return: Always 0 (Success)
 */
 
 void print_alphabet(void)
